@@ -15,6 +15,7 @@ The `Program` class contains the `Main` method, which:
 3. Outputs the generated numbers to the console.
 4. Handles any unexpected exceptions and displays error messages.
 
+## C# Script
 ```csharp
 using System;
 
